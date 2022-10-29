@@ -1,0 +1,14 @@
+---
+enabled_groups:
+  - example
+
+excluded_rules: []
+
+groups:
+  - name: example
+    rules:
+      - example_rule
+
+options:
+  example:
+    answer: 42
